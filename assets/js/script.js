@@ -1,0 +1,2 @@
+const requestURL = "http://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid=4ab55ec96aeb47baa2457edf5e49043e"
+const geoURL = "http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid=4ab55ec96aeb47baa2457edf5e49043e"
